@@ -1,0 +1,24 @@
+{
+  "name": "photozig-challenge",
+  "version": "1.0.0",
+  "description": "Desafio da PhotoZig feito por Philippe Miranda",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "Photozig",
+    "webdevelopment",
+    "challenge",
+    "web",
+    "html",
+    "javascript"
+  ],
+  "author": "Philippe Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
